@@ -1,0 +1,13 @@
+# Nmap 7.94SVN scan initiated Mon Aug  4 10:19:10 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN result.txt 192.168.0.1
+Nmap scan report for 192.168.0.1
+Host is up (0.0029s latency).
+Not shown: 995 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+53/tcp   open  domain
+80/tcp   open  http
+443/tcp  open  https
+1900/tcp open  upnp
+MAC Address: E4:C3:2A:90:FE:FE (TP-Link Technologies)
+
+# Nmap done at Mon Aug  4 10:19:50 2025 -- 1 IP address (1 host up) scanned in 39.37 seconds
