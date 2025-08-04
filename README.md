@@ -1,4 +1,4 @@
-# InternshipTask1
+# Internship Task1
 
 # 🔍 Nmap Network Scan Report (192.168.0.1)
 
