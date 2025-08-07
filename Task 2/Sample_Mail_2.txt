@@ -1,0 +1,18 @@
+From: PayPal <secure@paypall-support.com>
+To: user@example.com
+Subject: Urgent Action Required - Verify Your Account!
+
+Dear Valued Customer,
+
+We have detected unusual activity in your account and have temporarily limited access for your security.
+You must verify your identity within 24 hours to avoid permanent suspension.
+
+Click the link below to restore access:
+http://paypal-security-check.com/verify-now
+
+Failure to respond will result in account closure.
+
+Thank you,
+PayPal Security Team
+
+Attachment: Invoice_123456.zip
